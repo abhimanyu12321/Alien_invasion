@@ -6,6 +6,7 @@
     "KEYDOWN",
     "KEYUP",
     "midbottom",
+    "midtop",
     "pygame"
   ]
 }
