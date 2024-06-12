@@ -3,10 +3,12 @@
     "blit",
     "blitme",
     "FULLSCREEN",
+    "groupcollide",
     "KEYDOWN",
     "KEYUP",
     "midbottom",
     "midtop",
-    "pygame"
+    "pygame",
+    "spritecollideany"
   ]
 }
